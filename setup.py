@@ -17,7 +17,7 @@ setup(
         "matplotlib",
         "scipy",
         "BioPython",
-        "nardini @ git+https://github.com/mshinn23/nardini.git"
+        "nardini"
     ],
     test_suite='localcider.tests.suite')
 #    **extras)

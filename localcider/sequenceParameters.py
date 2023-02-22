@@ -24,9 +24,9 @@ from .backend.localciderExceptions import SequenceException
 from .backend.localciderExceptions import SequenceComplexityException
 from Bio import SeqIO
 from io import StringIO
-from nardini.score_and_plot import calculate_zscore_and_plot, calculate_zscore
-from nardini.plotting import plot_zscore_matrix
-from nardini.core import typeall
+#from nardini.score_and_plot import calculate_zscore_and_plot, calculate_zscore
+#from nardini.plotting import plot_zscore_matrix
+#from nardini.core import typeall
 from datetime import datetime
 
 
