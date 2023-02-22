@@ -69,7 +69,7 @@ from .backendtools import return_absolute_datafile_path, warning_message, verify
 from .restable import ResTable
 from .data import aminoacids
 from . import data
-from .localciderExceptions import SequenceException
+from .michalciderExceptions import SequenceException
 from .sequenceComplexity import SequenceComplexity
 
 

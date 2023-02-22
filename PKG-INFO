@@ -1,5 +1,5 @@
 Metadata-Version: 1.0
-Name: localcider
+Name: michalcider
 Version: 0.1.16
 Summary: Tools for calculating sequence properties of disordered proteins [from the Pappu Lab at Washington University in St. Louis]
 Home-page: http://pappulab.github.io/localCIDER/

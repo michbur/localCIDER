@@ -66,7 +66,7 @@ import numpy as np
 
 from .sequence import Sequence
 from .backendtools import verifyType
-from .localciderExceptions import PlottingException
+from .michalciderExceptions import PlottingException
 
 #...................................................................................#
 

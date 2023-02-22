@@ -20,8 +20,8 @@ from .backend.sequence import Sequence
 from .backend.seqfileparser import SequenceFileParser
 from .backend.backendtools import status_message
 from .backend import plotting
-from .backend.localciderExceptions import SequenceException
-from .backend.localciderExceptions import SequenceComplexityException
+from .backend.michalciderExceptions import SequenceException
+from .backend.michalciderExceptions import SequenceComplexityException
 from Bio import SeqIO
 from io import StringIO
 #from nardini.score_and_plot import calculate_zscore_and_plot, calculate_zscore

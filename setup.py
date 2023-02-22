@@ -2,11 +2,11 @@ from setuptools import setup
 import sys
 
 setup(
-    name='localcider',
+    name='michalcider',
     version='0.1.19',
     author='Alex Holehouse',
     author_email='alex.holehouse@wustl.edu',
-    packages=['localcider', 'localcider.tests', 'localcider.backend', 'localcider.backend.data'],
+    packages=['michalcider', 'michalcider.tests', 'michalcider.backend', 'michalcider.backend.data'],
     scripts=[],
     url='http://pappulab.github.io/localCIDER/',
     license='LICENSE.txt',
@@ -19,5 +19,5 @@ setup(
         "BioPython",
         "nardini"
     ],
-    test_suite='localcider.tests.suite')
+    test_suite='michalcider.tests.suite')
 #    **extras)

@@ -53,7 +53,7 @@
 
 from .backendtools import warning_message, status_message
 from .data.aminoacids import ONE_TO_THREE
-from .localciderExceptions import SequenceFileParserException
+from .michalciderExceptions import SequenceFileParserException
 
 
 class SequenceFileParser:

@@ -64,7 +64,7 @@ import os
 from .backendtools import running_dotdotdot
 from .sequence import Sequence
 
-from .localciderExceptions import WLException
+from .michalciderExceptions import WLException
 
 
 class WangLandauMachine:

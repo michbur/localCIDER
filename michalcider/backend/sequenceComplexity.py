@@ -48,7 +48,7 @@ import numpy as np
 import math
 from .data.highComplexitySequences import maxComplexity
 
-from .localciderExceptions import SequenceException, SequenceComplexityException
+from .michalciderExceptions import SequenceException, SequenceComplexityException
 from .data.aminoacids import TWENTY_AAs
 
 

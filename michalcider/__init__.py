@@ -56,10 +56,10 @@ from . import sequencePermutants as sequencePermutants
 from . import plots as plots
 
 # Explicit exception importing
-from .backend.localciderExceptions import KeyFileException
-from .backend.localciderExceptions import PlottingException
-from .backend.localciderExceptions import SequenceException
-from .backend.localciderExceptions import SequenceFileParserException
-from .backend.localciderExceptions import ResTableException
-from .backend.localciderExceptions import WLException
-status_message("localCIDER version " + localCIDER_version)
+from .backend.michalciderExceptions import KeyFileException
+from .backend.michalciderExceptions import PlottingException
+from .backend.michalciderExceptions import SequenceException
+from .backend.michalciderExceptions import SequenceFileParserException
+from .backend.michalciderExceptions import ResTableException
+from .backend.michalciderExceptions import WLException
+status_message("michalCIDER version " + localCIDER_version)

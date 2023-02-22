@@ -54,7 +54,7 @@ from .residue import Residue
 from . import data
 from .data.aminoacids import THREE_TO_ONE, ONE_TO_THREE
 
-from .localciderExceptions import ResTableException
+from .michalciderExceptions import ResTableException
 
 
 class ResTable:
