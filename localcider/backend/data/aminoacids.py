@@ -189,19 +189,19 @@ def get_residue_charge():
              'CYS': 0,
              'MET': 0,
              'ALA': 0,
-             'GLY': 0,
+             'GLY': 1,
              'THR': 0,
-             'SER': 0,
+             'SER': 1,
              'TRP': 0,
-             'TYR': 0,
+             'TYR': -1,
              'PRO': 0,
              'HIS': 0,
-             'GLU': -1,
+             'GLU': 0,
              'GLN': 0,
-             'ASP': -1,
+             'ASP': 0,
              'ASN': 0,
-             'LYS': 1,
-             'ARG': 1}
+             'LYS': 0,
+             'ARG': 0}
 
 
 
