@@ -185,7 +185,7 @@ def get_residue_charge():
     return  {'ILE': 0,                
              'VAL': 0,
              'LEU': 0,
-             'PHE': 0,
+             'PHE': -1,
              'CYS': 0,
              'MET': 0,
              'ALA': 0,
@@ -197,9 +197,9 @@ def get_residue_charge():
              'PRO': 0,
              'HIS': 0,
              'GLU': 0,
-             'GLN': 0,
+             'GLN': 1,
              'ASP': 0,
-             'ASN': 0,
+             'ASN': 1,
              'LYS': 0,
              'ARG': -1}
 
