@@ -199,7 +199,7 @@ def get_residue_charge():
              'GLU': 0,
              'GLN': 1,
              'ASP': 0,
-             'ASN': 1,
+             'ASN': 0,
              'LYS': 0,
              'ARG': -1}
 
