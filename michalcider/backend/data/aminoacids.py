@@ -201,7 +201,7 @@ def get_residue_charge():
              'ASP': 0,
              'ASN': 0,
              'LYS': 0,
-             'ARG': 0}
+             'ARG': -1}
 
 
 
